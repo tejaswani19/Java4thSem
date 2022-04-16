@@ -24,8 +24,8 @@ class StringsInJava {
 		for(int i = 0; i < s.length(); i++) {
 			System.out.println(s.charAt(i));
 		}
-		String first = "Anushka";
-		String second = "Naithani";
+		String first = "Tejaswani";
+		String second = "Upadhyay";
 		
 		//Add two strings
 		String third = first + second;
